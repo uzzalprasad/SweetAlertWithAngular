@@ -16,3 +16,5 @@ Swal.fire({ toast: true, position: 'top-end', showConfirmButton: false, timer: 3
   showMessage(){
     Swal.fire({ text: 'Hello!', icon: 'success'});
   }
+
+Stackblitz : https://angularwithsweetalerttoast.stackblitz.io
